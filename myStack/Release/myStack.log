@@ -1,0 +1,7 @@
+﻿  main.c
+  stack.c
+  utils.c
+  Generating code
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  myStack.vcxproj -> C:\Users\Jim\Documents\Visual Studio 2017\Projects\Data Structures\myStack\Release\myStack.exe
